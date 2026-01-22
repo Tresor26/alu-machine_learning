@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import numpy as np
 np_matmul = __import__('14-saddle_up').np_matmul
 

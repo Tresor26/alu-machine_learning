@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def mat_mul(mat1, mat2):
     """Performs matrix multiplication on two 2D matrices"""
     # Check if matrices can be multiplied

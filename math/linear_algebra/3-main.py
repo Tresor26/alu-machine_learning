@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 matrix_transpose = __import__('3-flip_me_over').matrix_transpose
 
 mat1 = [[1, 2], [3, 4]]

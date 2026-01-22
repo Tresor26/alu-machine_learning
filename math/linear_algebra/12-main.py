@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import numpy as np
 np_elementwise = __import__('12-bracin_the_elements').np_elementwise
 
