@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Module for concatenating numpy arrays"""
 import numpy as np
 
 

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Module for calculating matrix shape"""
+
+
 def matrix_shape(matrix):
     shape = []
     while isinstance(matrix, list):
